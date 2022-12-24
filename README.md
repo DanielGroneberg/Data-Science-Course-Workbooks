@@ -1,3 +1,4 @@
 # Data-Science-Course-Workbooks
-The notes and code I created while taking the Python for Machine Learning &amp; Data Science Masterclass by Pieran Data.
-The 
+This repository is intended to doccument my progress through the 2022 Python for Machine Learning & Data Science Masterclass by Pierian Data. Each file is named according to the subject of the course section.
+
+Before starting this course, I had some basic familiarity with Python, having used JuypterLab in Fluvial Geomorphology class in college to do calculations related to river discharge.
